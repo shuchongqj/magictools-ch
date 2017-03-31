@@ -237,6 +237,7 @@
 * [PandaJS](http://www.pandajs.net/) - 免费且快捷的 2D 游戏框架，用于开发面向桌面和移动浏览器的 HTML5 游戏，支持 Canvas 和 WebGL 渲染。
 * [Pixel Vision 8](https://twitter.com/PixelVision8) - 一款被设计用来模拟你喜欢的 8-bit 主机的框架。
 * [PixiJS](http://www.pixijs.com/) - 这是一款新晋的 HTML5 游戏渲染器 - 在2013年第一次发布。这款引擎的主要特点在于它在 WebGL 上的快速性能。如果浏览器不支持 WebGL，该引擎就会回归标准的 Canvas 标准进行渲染。
+* [Planck.js](http://piqnt.com/planck.js/) - 用于跨平台的 HTML5 游戏开发的 2D JavaScript 物理引擎。
 * [Processing](https://www.processing.org/) - Processing 是一款程序语言，为艺术家、设计师和研究员的开发环境。
 * [PuzzleScript](http://www.puzzlescript.net/) - 开源的 HTML5 益智游戏引擎。
 * [PyGame](http://pygame.org/hifi.html) - 一款用 Python 程序语言实现的 2D 游戏引擎。
@@ -276,7 +277,6 @@
 * [ODE](http://www.ode.org/) - ODE 是一款开源的，高性能的工具库，用于模拟刚体运动学。 ![open soucce](/img/opensource.png)
 * [Ogre3D](http://www.ogre3d.org/) -  Ogre3D 是一款面向场景的，实时的，灵活的用 C++ 编写而成的 3D 渲染引擎。(与游戏引擎相对应)。
 * [Panda3D](https://www.panda3d.org/) - 一款用 Python 和 C++ 编程的 3D 渲染和游戏开发框架。
-* [Paradox](http://paradox3d.net/) - 开源的 C# 游戏引擎。 ![open soucce](/img/opensource.png)
 * [Piston](http://www.piston.rs/) - 一款用 Rust 编写的模块化的开源游戏引擎 ![open soucce](/img/opensource.png)
 * [PlayCanvas](https://playcanvas.com/) - 一款 WebGL 游戏引擎。
 * [Polycode](http://polycode.org) - 用于使用 C++ 开发游戏(使用 Lua 连接)的开源框架。
@@ -290,6 +290,7 @@
 * [Urho3D](http://urho3d.github.io/) - 跨平台渲染和游戏引擎。
 * [Wave](http://waveengine.net/) - 用 C# 编写的跨平台引擎。
 * [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) - 3d javacript 框架，用于创建 app 和游戏。
+* [Xenko](http://xenko.com/) - 开源 C# 游戏引擎. ![open soucce](/img/opensource.png)
 * [bgfx](https://github.com/bkaradzic/bgfx) - 跨平台，图形 API 不可知，有着“带给你属于自己的引擎/框架” 的感觉的渲染工具库。
 * [gameplay](http://gameplay3d.io/) - 一款使用 C++ 编写的免费，开源的，跨平台，2D + 3D 游戏框架。它主要面向独立游戏开发者
 * [jMonkeyEngine 3](http://jmonkeyengine.org/) - 一款面向富有冒险精神的 Java 开发者的开源游戏引擎。
